@@ -1,5 +1,6 @@
 # not-awesome-fraud
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 > A not so awesome list of suspicious sites
 
 
